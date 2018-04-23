@@ -1,2 +1,2 @@
 python-dotenv>=0.7.1
-ptvsd==3.0.0
+easy_ptvsd>=0.1.1
